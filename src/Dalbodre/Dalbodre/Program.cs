@@ -1,10 +1,3 @@
-using Dalbodre.Components;
-using Dalbodre.Components.Account;
-using Dalbodre.Data;
-using Microsoft.AspNetCore.Components.Authorization;
-using Microsoft.AspNetCore.Identity;
-using Microsoft.EntityFrameworkCore;
-
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
