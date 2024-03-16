@@ -1,5 +1,3 @@
-using Dalbodre.Data;
-using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI.Services;
 
 namespace Dalbodre.Components.Account
