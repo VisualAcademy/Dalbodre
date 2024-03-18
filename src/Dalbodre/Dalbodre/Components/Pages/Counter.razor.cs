@@ -1,5 +1,3 @@
-using Microsoft.AspNetCore.Components;
-
 namespace Dalbodre.Components.Pages
 {
     public partial class Counter
