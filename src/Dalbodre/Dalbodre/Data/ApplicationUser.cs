@@ -4,5 +4,4 @@ namespace Dalbodre.Data
     public class ApplicationUser : IdentityUser
     {
     }
-
 }
